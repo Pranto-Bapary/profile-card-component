@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![Desktop](./screenshots/Desktop.PNG)
-![Mobile]((./screenshots/Mobile.PNG)
+![](./screenshots/Mobile.PNG)
 
 ### Links
 
