@@ -18,12 +18,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![Desktop](./Desktop_design.PNG)
-![](./Mobile_design.PNG)
+![Desktop](./screenshots/Desktop.PNG)
+![Mobile]((./screenshots/Mobile.PNG)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/pranto-bapary)
+- Solution URL: [Github](https://github.com/Pranto-Bapary/profile-card-component)
 - Live Site URL: [Github Pages](https://pranto-bapary.github.io/profile-card-component)
 
 ### Built with
@@ -63,5 +63,5 @@ const proudOfThisFunc = () => {
 ## Author
 
 - Website - [Pranto Bapary](https://www.pranto-bapary.github.io/portfolio)
-- Frontend Mentor - [@pranto-bapary](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@pranto-bapary](https://www.frontendmentor.io/profile/Pranto-Bapary)
 - Facebook - [@ashfe.pranto](https://www.facebook.com/ashfe.pranto)
